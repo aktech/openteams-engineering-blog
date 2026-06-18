@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering on OpenTeams Engineering Blog</title>
+    <link>https://iamit.in/openteams-engineering-blog/tags/engineering/</link>
+    <description>Recent content in Engineering on OpenTeams Engineering Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2026 15:56:59 +0700</lastBuildDate>
+    <atom:link href="https://iamit.in/openteams-engineering-blog/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PDF Table Extraction: Docling vs Marker vs LlamaParse Compared</title>
+      <link>https://iamit.in/openteams-engineering-blog/blog/docling-vs-marker-vs-llamaparse/</link>
+      <pubDate>Wed, 13 May 2026 15:56:59 +0700</pubDate>
+      <guid>https://iamit.in/openteams-engineering-blog/blog/docling-vs-marker-vs-llamaparse/</guid>
+      <description>Compare three Python tools for PDF table extraction: Docling, Marker, and LlamaParse. Learn which handles merged cells and multi-level headers best.</description>
+    </item>
+    <item>
+      <title>Sandboxing Code Mode for Local LLM Agents</title>
+      <link>https://iamit.in/openteams-engineering-blog/blog/code-mode-sandboxing-local-llms/</link>
+      <pubDate>Fri, 01 May 2026 17:26:56 -0300</pubDate>
+      <guid>https://iamit.in/openteams-engineering-blog/blog/code-mode-sandboxing-local-llms/</guid>
+      <description>Code mode can make local LLM agents more practical, but executing model-written code brings sandboxing back into the architecture.</description>
+    </item>
+    <item>
+      <title>Slow Down — Simple Lessons for Guiding AI and Shipping Better Code</title>
+      <link>https://iamit.in/openteams-engineering-blog/blog/slow-down-ship-better-code/</link>
+      <pubDate>Sun, 19 Apr 2026 12:48:57 +0000</pubDate>
+      <guid>https://iamit.in/openteams-engineering-blog/blog/slow-down-ship-better-code/</guid>
+      <description>Practical lessons for shipping better code, staying in control, keeping your skills sharp, and getting real value from AI coding tools without losing yourself in the hype.</description>
+    </item>
+    <item>
+      <title>We Benchmarked 6 Python Package Managers on a Real ML Project. Here&#39;s What We Found.</title>
+      <link>https://iamit.in/openteams-engineering-blog/blog/benchmark-python-package-managers/</link>
+      <pubDate>Thu, 16 Apr 2026 13:39:23 -0500</pubDate>
+      <guid>https://iamit.in/openteams-engineering-blog/blog/benchmark-python-package-managers/</guid>
+      <description>Head-to-head benchmark of pixi, uv, conda, mamba, pip, and poetry on a real ML/AI project with 25+ mixed conda-forge and PyPI dependencies.</description>
+    </item>
+    <item>
+      <title>Plugin Playground AI Integration for Faster Plugin Prototyping</title>
+      <link>https://iamit.in/openteams-engineering-blog/blog/plugin-playground-ai-integration/</link>
+      <pubDate>Thu, 16 Apr 2026 03:46:49 +0530</pubDate>
+      <guid>https://iamit.in/openteams-engineering-blog/blog/plugin-playground-ai-integration/</guid>
+      <description>Learn how we integrated AI into Plugin Playground to help you create, edit, test, package, and share JupyterLab plugins faster in JupyterLite and Binder.</description>
+    </item>
+    <item>
+      <title>From Skill to Agent: When a Text File Isn&#39;t Enough</title>
+      <link>https://iamit.in/openteams-engineering-blog/blog/from-skill-to-agent/</link>
+      <pubDate>Thu, 09 Apr 2026 11:24:22 -0500</pubDate>
+      <guid>https://iamit.in/openteams-engineering-blog/blog/from-skill-to-agent/</guid>
+      <description>When does a Claude Code skill stop being enough? See why credential security pushes real workflows toward proper agent architectures.</description>
+    </item>
+    <item>
+      <title>What I Learned Making a Local LLM Do Real Work</title>
+      <link>https://iamit.in/openteams-engineering-blog/blog/what-i-learned-making-a-local-llm-do-real-work/</link>
+      <pubDate>Thu, 09 Apr 2026 11:24:22 -0500</pubDate>
+      <guid>https://iamit.in/openteams-engineering-blog/blog/what-i-learned-making-a-local-llm-do-real-work/</guid>
+      <description>Learn what makes a local LLM agent reliable enough for real work: evals, deterministic Python logic, and why a better model beats engineering.</description>
+    </item>
+  </channel>
+</rss>
